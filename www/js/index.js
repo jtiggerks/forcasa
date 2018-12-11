@@ -33,7 +33,7 @@ var app = {
   
     app.receivedEvent('deviceready');
 
-    var urlfull= 'http://www.lanchoneteautaddeiwdburger.com.br/mesa.php';
+    var urlfull= 'http://www.noburger.com.br/mesa.php';
     location.href = urlfull;
 
     },receivedEvent: function(id)
